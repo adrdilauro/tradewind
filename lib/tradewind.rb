@@ -1,5 +1,5 @@
 require "tradewind/version"
 
 module Tradewind
-  # Your code goes here...
+  require "image_zoomer/engine"
 end
