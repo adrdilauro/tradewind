@@ -1,3 +1,3 @@
 module Tradewind
-  VERSION = "0.3"
+  VERSION = "1.2"
 end
