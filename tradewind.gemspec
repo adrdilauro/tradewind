@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Tradewind::VERSION
   spec.authors       = ["Adriano di Lauro"]
   spec.email         = ["adriano@irisconnect.co.uk"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Easy and smooth CSS3 animations https://github.com/adrdilauro/tradewind.js"
+  spec.description   = "This gem wraps the JavaScript plugin tradewind.js"
+  spec.homepage      = "https://github.com/adrdilauro/tradewind.js"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
