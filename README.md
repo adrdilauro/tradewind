@@ -1,6 +1,6 @@
 # Tradewind
 
-TODO: Write a gem description
+Gem wrapper for [tradewind.js](https://github.com/adrdilauro/tradewind.js)
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Check out [tradewind.js official documentation](https://github.com/adrdilauro/tradewind.js/wiki)
 
 ## Contributing
 
