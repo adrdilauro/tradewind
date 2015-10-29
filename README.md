@@ -2,14 +2,14 @@
 
 Gem wrapper for [tradewind.js](https://github.com/adrdilauro/tradewind.js).
 
-Latest release: `1.2`.
+Latest release: `1.3`.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tradewind', '1.2'
+gem 'tradewind', '1.3'
 ```
 
 And then execute:
